@@ -1,0 +1,8 @@
+# Material de entrada con copyright y datos personales: nunca publicar
+recursos/
+fuentes/
+# Área de trabajo (partes, notas, especificación) y salidas de verificación
+trabajo/
+doc/tools/out/
+# Pedido original: nombra los materiales de entrada
+prompt.md
